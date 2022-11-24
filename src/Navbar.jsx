@@ -7,8 +7,7 @@ const Navbar = () => {
             <a href="./MOTOS.html" class="opcionclase">MOTOS</a>
             <a href="./CASCOS.html" class="opcionclase">CASCOS</a>
             <a href="./INDUMENTARIA.html" class="opcionclase">INDUMENTARIA</a>
-            <a href="./ACCESORIOS.html" class="opcionclase">ACCESORIOS</a></div><div class="col-2 col-lg-1 d-flex justify-content-center" id="divlogoheader">
-        </div>
+            <a href="./ACCESORIOS.html" class="opcionclase">ACCESORIOS</a></div>
         <div class="icono">
             <i class="bi bi-cart-check-fill"></i>
         </div>
