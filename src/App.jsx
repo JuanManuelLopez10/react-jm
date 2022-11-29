@@ -1,12 +1,12 @@
-import Navbar from "./Navbar.jsx";
+import Navbar from "./components/Navbar";
 import ItemListContainer from "./components/ItemListContainer";
-import './App.css';
+import './css/styles.css';
 
 const App = () => {
   return(
     <>
-      <Navbar />
-      <ItemListContainer msj="Hola Verano" />
+      <Navbar/>
+      <ItemListContainer/>
     </>
   )
 }
